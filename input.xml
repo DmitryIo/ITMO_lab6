@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<collection>
+    <studyGroup>
+        <coordinates>
+            <x>1</x>
+            <y>1</y>
+        </coordinates>
+        <creationDateXml>15-03-2020 13:22:24</creationDateXml>
+        <formOfEducation>FULL_TIME_EDUCATION</formOfEducation>
+        <groupAdmin>
+            <height>1</height>
+            <location>
+                <name></name>
+                <x>1.0</x>
+                <y>1</y>
+            </location>
+            <name>12343</name>
+            <passportID>12345432</passportID>
+            <weight>1</weight>
+        </groupAdmin>
+        <id>8199086762487612385</id>
+        <name>qwe</name>
+        <semesterEnum>THIRD</semesterEnum>
+        <studentsCount>1</studentsCount>
+    </studyGroup>
+    <studyGroup>
+        <coordinates>
+            <x>1</x>
+            <y>2</y>
+        </coordinates>
+        <creationDateXml>28-03-2021 18:27:35</creationDateXml>
+        <formOfEducation>FULL_TIME_EDUCATION</formOfEducation>
+        <groupAdmin>
+            <height>34</height>
+            <location>
+                <name>hello</name>
+                <x>5.0</x>
+                <y>4</y>
+            </location>
+            <name>fff</name>
+            <passportID>32323232323</passportID>
+            <weight>3</weight>
+        </groupAdmin>
+        <id>520874595245125740</id>
+        <name>Person</name>
+        <semesterEnum>THIRD</semesterEnum>
+        <studentsCount>50</studentsCount>
+    </studyGroup>
+    <studyGroup>
+        <coordinates>
+            <x>1</x>
+            <y>4</y>
+        </coordinates>
+        <creationDateXml>02-04-2021 08:20:21</creationDateXml>
+        <formOfEducation>FULL_TIME_EDUCATION</formOfEducation>
+        <groupAdmin>
+            <height>5</height>
+            <location>
+                <name>hello</name>
+                <x>5.0</x>
+                <y>6</y>
+            </location>
+            <name>dfffdf</name>
+            <passportID>23232323</passportID>
+            <weight>6</weight>
+        </groupAdmin>
+        <id>6489804075434360482</id>
+        <name>Hello</name>
+        <semesterEnum>FIFTH</semesterEnum>
+        <studentsCount>5</studentsCount>
+    </studyGroup>
+</collection>
